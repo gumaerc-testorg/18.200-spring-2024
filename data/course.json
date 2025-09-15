@@ -1,0 +1,37 @@
+{
+  "term": "Spring",
+  "year": "2024",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "97b0c914-af54-a0f4-5141-04a8ec96b059",
+      "3bf5f61b-2e8c-20df-bdac-e578d6c753de",
+      "4ceefbf4-d227-9cc9-e7bf-881ed167cc62"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "",
+    "website": "principles-of-discrete-applied-mathematics"
+  },
+  "course_title": "Principles of Discrete Applied Mathematics",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "This course will teach you illustrative topics in discrete applied mathematics, including counting, generating functions, probability, linear optimization, algebraic structures, basic number theory, information theory, and coding theory. It is a [CI-M](https://registrar.mit.edu/registration-academics/academic-requirements/communication-requirement/ci-m-subjects) (Communication Intensive in the Major) course and thus includes a writing component.",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.200",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Lecture Videos"
+  ],
+  "site_uid": "e52ab90f-ac14-4b65-a5dc-ee77b33d846d",
+  "site_short_id": "18.200-spring-2024",
+  "site_url_path": "courses/18-200-principles-of-discrete-applied-mathematics-spring-2024"
+}
