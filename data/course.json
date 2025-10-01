@@ -21,7 +21,7 @@
   "course_title": "Principles of Discrete Applied Mathematics",
   "hide_download": false,
   "mit_learn_topics": [],
-  "course_description": "This course will teach you illustrative topics in discrete applied mathematics, including counting, generating functions, probability, linear optimization, algebraic structures, basic number theory, information theory, and coding theory. It is a [CI-M](https://registrar.mit.edu/registration-academics/academic-requirements/communication-requirement/ci-m-subjects) (Communication Intensive in the Major) course and thus includes a writing component.",
+  "course_description": "This course will teach you illustrative topics in discrete applied mathematics, including counting, generating functions, probability, linear optimization, algebraic structures, basic number theory, information theory, and coding theory. It is a {{% resource_link \"39911bef-ef76-4bc7-bacc-0e264c3990f0\" \"CI-M\" %}} (Communication Intensive in the Major) course and thus includes a writing component.",
   "department_numbers": [
     "18"
   ],

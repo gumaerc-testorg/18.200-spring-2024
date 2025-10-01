@@ -21,21 +21,21 @@ What is guiding text? (2-page annotated proof) (PDF)
 
 ## **LaTeX Resources**
 
-[LaTeX – A document preparation system](http://www.latex-project.org/)   Information about LaTeX and a source to download the software for free.
+{{% resource_link "3f3721ae-38ae-4c76-bb96-c339567fde7b" "LaTeX – A document preparation system" %}}   Information about LaTeX and a source to download the software for free.
 
 Introduction to LaTeX (PDF) (TEX)
 
-[Term Paper Template](https://www.overleaf.com/read/nbxhzvqtmcgj#c57265) (optional) Links to an external site.
+{{% resource_link "9069072a-5165-4609-99f6-5be67d7486e2" "Term Paper Template" %}} (optional) Links to an external site.
 
 - We're providing an optional term paper template for reference. You are NOT required to put your term paper into this template (although you may)--it's meant primarily as a reference:
 - How it can be useful as a reference:
     - Because this template includes the expected components of the paper, a glance at the pdf can help you check that you haven't forgotten anything.
     - The tex code illustrates many of the common needs for LaTeX in 18.200, so it can be a quick resource for things like how to specify 11pt font, how to have statement numbers include the section number, how to change "Proof" to "Proof of Theorem X", how to reference an equation number, etc.
 
-[Homework Template](https://www.overleaf.com/project/65bd53b8ffdf5d6b11086128) Links to an external site.
+{{% resource_link "01f7a1a9-ac83-4e6f-810b-bd608d8f99fb" "Homework Template" %}} Links to an external site.
 
 Sample Proof With Guiding Text (TEX)
 
-[TeXworks](https://www.tug.org/texworks/) LaTeX processer to download, if you don't want to use Overleaf
+{{% resource_link "c265cf48-04ea-4e72-b244-bd68b232b310" "TeXworks" %}} LaTeX processer to download, if you don't want to use Overleaf
 
-[LyX](https://www.lyx.org/) LaTeX processer with a graphical interface. (Overleaf has one too.)
+{{% resource_link "dc9b5984-5ebb-443a-b912-38db3763d51a" "LyX" %}} LaTeX processer with a graphical interface. (Overleaf has one too.)
